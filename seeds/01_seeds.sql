@@ -8,14 +8,11 @@ INSERT INTO properties (owner_id, title, description, thumbnail_photo_url,
 cover_photo_url, cost_per_night, parking_spaces, number_of_bathrooms, number_of_bedrooms,
 country, street, city, province, post_code, active)
 VALUES 
-(1, 'Hotel', 'Description', 'https://www.pngwing.com/en/free-png-bzuui',
-'https://unsplash.com/photos/-27u_GzlAFw', '200', '1', '1', '2',
+(1, 'Hotel', 'Description', 'https://images.unsplash.com/photo-1517840901100-8179e982acb7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3570&q=80', 'https://unsplash.com/photos/-27u_GzlAFw', '200', '1', '1', '2',
 'Bali', 'Hello', 'Ubud', 'Monkey', '9M7B6', TRUE),
-(2, 'Motel', 'Description', 'https://www.pngwing.com/en/free-png-bzuui',
-'https://unsplash.com/photos/-27u_GzlAFw', '200', '1', '1', '2',
+(1, 'Motel', 'Description', 'https://images.unsplash.com/photo-1517840901100-8179e982acb7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3570&q=80', 'https://unsplash.com/photos/-27u_GzlAFw', '200', '1', '1', '2',
 'Bora-Bora', 'There', 'Vaitape', 'Cat', '9M7B6', TRUE),
-(3, 'House', 'Description', 'https://www.pngwing.com/en/free-png-bzuui',
-'https://unsplash.com/photos/-27u_GzlAFw', '200', '1', '1', '2',
+(1, 'House', 'Description', 'https://images.unsplash.com/photo-1517840901100-8179e982acb7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3570&q=80', 'https://unsplash.com/photos/-27u_GzlAFw', '200', '1', '1', '2',
 'Cuba', 'You', 'Varadero', 'Rum', '9M7B6', TRUE);
 
 
